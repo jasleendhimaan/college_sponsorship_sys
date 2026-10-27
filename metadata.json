@@ -1,0 +1,6 @@
+{
+  "name": "PCTE Campus Bridge",
+  "description": "PCTE Campus Bridge - Enterprise Campus Event & Sponsorship Management System connecting colleges and corporate sponsors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
